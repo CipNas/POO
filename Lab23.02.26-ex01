@@ -1,0 +1,26 @@
+#include "pch.h"
+//#include "stdafx.h"
+using namespace System;
+
+int main(array<System::String ^> ^args)
+{
+    unsigned contor = 0; int div1 = 0;  //initializare variabile
+        try {
+        for(contor; contor<5; contor ++)
+        {
+            Console::WriteLine("Test Test Test {0}, {1}", "Hello world!", contor); 
+            //concateaza la textul "Test test test" textul "Helo..." si valoarea contorului
+            //pastrand ordinea indicata in {}, adica 0 pentru "Helo..." si{1} pentru "contor"
+
+        }
+        double div = contor / div1; // incercare de impartire la 0 ==> creeaza o exceptie care va fi
+                                    // gestionata de zona catch Exception
+        Console::WriteLine(div);
+        }
+    catch (Exception^ ex)
+    {
+        Console::WriteLine("0 exceptie " + ex->Message);
+
+    }
+    return 0;
+}

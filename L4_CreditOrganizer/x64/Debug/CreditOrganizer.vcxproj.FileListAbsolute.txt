@@ -1,0 +1,3 @@
+E:\01 - Universitatea Bacau\Semestru 2\04-POO\Work and Stuff\2023.04.29\CreditOrganizer\x64\Debug\CreditOrganizer.vcxproj.AssemblyReference.cache
+E:\01 - Universitatea Bacau\Semestru 2\04-POO\Work and Stuff\2023.04.29\CreditOrganizer\x64\Debug\CreditOrganizer.vcxproj.SuggestedBindingRedirects.cache
+E:\01 - Universitatea Bacau\Semestru 2\04-POO\Work and Stuff\2023.04.29\CreditOrganizer\x64\Debug\CreditOrganizer.exe
